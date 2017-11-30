@@ -9,10 +9,10 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Hexo-v3.1%2B-blue.svg">
     <img src="https://img.shields.io/badge/IE-8%2B-red.svg">
-    <a href="https://github.com/MOxFIVE/hexo-theme-yelee/releases" target="_blank">
-        <img src="https://img.shields.io/github/release/MOxFIVE/hexo-theme-yelee.svg">
+    <a href="https://github.com/dearzoe/hexo-theme-zoe" target="_blank">
+        <img src="https://img.shields.io/github/master/dearzoe/hexo-theme-zoe.svg">
     </a>
-    <a href="http://moxfive.xyz" target="_blank">
+    <a href="http://huwenzhe.com/" target="_blank">
         <img src="https://img.shields.io/badge/DEMO-wenzhe's%20Blog-brightgreen.svg">
     </a>
 </p>
