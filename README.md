@@ -1,4 +1,4 @@
-&emsp;&emsp;Theme **Yelee** relies on [Hexo-Theme-Yilia][1] and [Hexo-Theme-Yelee][2], thanks for the author [Litten][3] and [MOxFIVE][4]. Fix some bugs, change lots of styles, add several features. And then I made the theme. Yelee is mainly designed for fluent text reading. I change styles and add functions, meanwhile, try hard to keep this theme simple, stupid and clear. Theme DEMO: [wenzhe's Blog][3]
+&emsp;&emsp;Theme **Zoe** relies on [Hexo-Theme-Yilia][1] and [Hexo-Theme-Yelee][2], thanks for the author [Litten][3] and [MOxFIVE][4]. Fix some bugs, change lots of styles, add several features. And then I made the theme. Yelee is mainly designed for fluent text reading. I change styles and add functions, meanwhile, try hard to keep this theme simple, stupid and clear. Theme DEMO: [wenzhe's Blog][3]
 
 [1]: https://github.com/litten/hexo-theme-yilia
 [2]: https://github.com/MOxFIVE/hexo-theme-yelee
